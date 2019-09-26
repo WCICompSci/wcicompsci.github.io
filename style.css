@@ -8,3 +8,7 @@ div {
   color: white;
   font-family: 'Inconsolata', monospace;
 }
+
+a {
+    color: aqua;
+}
