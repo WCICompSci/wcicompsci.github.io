@@ -13,6 +13,10 @@ a {
     color: aqua;
 }
 
+.easter {
+  text-decoration: none;
+}
+
 * {
   box-sizing: border-box;
 }
