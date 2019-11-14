@@ -28,7 +28,7 @@ a {
 }
 
 .left {
-  width: 60%;
+  width: 55%;
   text-align: center;
   font-size: 0.5vw;
   margin-top: 20vh;
@@ -41,8 +41,8 @@ a {
 }
 
 .right {
-  width: 40%;
-  margin-top: 30vh;
+  width: 45%;
+  margin-top: 25vh;
 }
 
 /* Clear floats after the columns */
