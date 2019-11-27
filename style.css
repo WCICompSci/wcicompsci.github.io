@@ -27,6 +27,16 @@ a {
   margin: auto;
 }
 
+.competition {
+  float: left;
+  margin-top: 35vh;
+  font-size: 0.75vw;
+  text-align: left;
+  padding: 10px;
+  padding-left: 30vh;
+  width: 55%;
+}
+
 .left {
   width: 55%;
   text-align: center;
